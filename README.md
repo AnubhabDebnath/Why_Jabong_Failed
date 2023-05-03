@@ -39,6 +39,18 @@ The Indian e-commerce market faced a number of socioeconomic challenges, includi
 Business Decisions:
 Jabong struggled to keep up with the market demand. Business decisions like not keeping up with the market trends, not expanding the product line, not focusing on customer service, and not being able to sustain with the price war were some of the reasons for its failure. All the founders left too frequently which lead to the overall imbalance in the company. Overall, Jabong's failure can be attributed to a combination of internal and external factors, including intense competition, poor business decisions, and socioeconomic challenges.
 
+# <img src="https://media.tenor.com/F7Y9A0SWAUcAAAAi/goal-circle.gif" width="48" height="48"> **Insights**
+
+![image](https://user-images.githubusercontent.com/110715196/236038180-bb76a5f8-e967-4b52-a38c-5f9245f972e3.png)
+
+Jabong had the 3rd highest monthly user traffic which was 42.5 million users. Still it failed to keep up with its competitors which were Flipkart and Myntra at that point of time.
+
+![image](https://user-images.githubusercontent.com/110715196/236038444-59225ed9-5824-4bd4-a8f5-000d599d93eb.png)
+
+Jabong also had the 4th highest revenue which was ₹150,00,00,000 per month at that time when Myntra had the highest revenue at ₹500,00,00,000.
+
+
+
 
 
 
