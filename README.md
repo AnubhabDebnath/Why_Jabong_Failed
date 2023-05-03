@@ -27,4 +27,18 @@ The failure of Jabong can be attributed to a combination of factors, including t
    3. Socioeconomic causes
    4. Business Decisions to cope up with the market demand
 
+New Competitors: 
+The Indian e-commerce market was highly competitive, and new players entered the market regularly. Jabong struggled to maintain its market share as competition intensified. It also did’nt have a USP(Unique Selling Product).
+
+PR or Media Reputation Damage:
+Jabong struggled with negative publicity and a damaged reputation in the media. This may have contributed to a decline in customer trust and loyalty.
+
+Socioeconomic Causes: 
+The Indian e-commerce market faced a number of socioeconomic challenges, including poor logistics and delivery infrastructure, which made it difficult for Jabong to maintain the level of service and customer satisfaction that it needed to remain competitive
+
+Business Decisions:
+Jabong struggled to keep up with the market demand. Business decisions like not keeping up with the market trends, not expanding the product line, not focusing on customer service, and not being able to sustain with the price war were some of the reasons for its failure. All the founders left too frequently which lead to the overall imbalance in the company. Overall, Jabong's failure can be attributed to a combination of internal and external factors, including intense competition, poor business decisions, and socioeconomic challenges.
+
+
+
 
