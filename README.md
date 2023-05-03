@@ -5,6 +5,10 @@ This depository contains the casestudy of why one of the biggest players in the 
 
 ![image](https://media.tenor.com/b5XOCepSxyYAAAAd/facebook-down-fix-facebook.gif)
 
+# <img src="https://media.tenor.com/O3SstB9FDl8AAAAd/groot-problems.gif" width="48" height="48"> **Problems Faced**
+
+The first and formost problem I faced was while researching for the project, I had to look for sources which are valid or sources which are trustable, since it had to done using the internet, I had be carefull that the reasons listed are genuine and not made up by some article. I went through various trusted sources and gathered all the information needed for the analysis. Then I looked for different visualizations already available which would fit the project's needs.
+
 # <img src="https://media.tenor.com/GTpcptu5S3YAAAAi/money-cash.gif" width="48" height="48"> **Revenue Model of Jabong**
 
 Jabong's revenue model was based on the sale of fashion and lifestyle products through its online platform. The company offered a wide range of products including clothing, footwear, accessories, and home decor. They also had a strong focus on providing customers with a personalized shopping experience by offering a wide range of options and a user-friendly website.
