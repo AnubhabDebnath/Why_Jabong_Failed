@@ -3,7 +3,7 @@
 
 This depository contains the casestudy of why one of the biggest players in the clothing market - "Jabong" failed to stay there just after a few years of giving tough competition to other competing brands like Amazon, Flipkart, Snapdeal etc. I had to a lot of research about the company, its uprising in the market as well as its downfall and derive a few reasons how it could've been prevented.
 
-![image](https://mir-s3-cdn-cf.behance.net/project_modules/disp/c7b90a29674991.58ed14d369716.gif)
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c7b90a29674991.58ed14d369716.gif" width="1000" height="700">
 
 # <img src="https://media.tenor.com/O3SstB9FDl8AAAAd/groot-problems.gif" width="48" height="48"> **Problems Faced**
 
