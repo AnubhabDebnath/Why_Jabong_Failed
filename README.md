@@ -56,6 +56,28 @@ Jabong also had the 4th highest revenue which was ₹150,00,00,000 per month at 
 
 
 
+# <img src="https://media.tenor.com/jiGDrimfDEgAAAAi/sports-sportsmanias.gif" width="48" height="48"> **What could have been done differently?**
+
+**If I were a key decision maker for Jabong, some actions I could have taken to potentially to save the business would  include -**
+
+ **Focusing on customer experience**
+
+ **Innovation and Diversifying product line**
+
+ **Investing in Marketing and Branding**
+
+ **Building strong partnerships**
+
+ **Cost optimization**
+
+ **Developing a robust and efficient supply chain**
+ 
+ 
+ 
+
+
+
+
 
 
 
