@@ -17,9 +17,14 @@ Jabong's revenue model was based on the sale of fashion and lifestyle products t
 
 In terms of customer analysis, Jabong primarily targeted the youth and young adult demographic in India and other countries. The company also had a strong focus on providing customers with a wide range of options and a personalized shopping experience. They also offered a wide range of payment options, including cash on delivery and easy returns, to cater to the needs of the Indian market.
 
-![image](https://media.tenor.com/jDjvyXcYk8MAAAAd/why-me.gif)
 
 # <img src="https://media.tenor.com/33iojjaYpEMAAAAi/why-porque.gif" width="48" height="48"> **Possible resons for its failure**
+
+
+
+![image](https://media.tenor.com/jDjvyXcYk8MAAAAd/why-me.gif)
+
+
 
 The failure of Jabong can be attributed to a combination of factors, including the emergence of new competitors in the market, PR or media reputation damage, socioeconomic causes, and poor business decisions made to cope with market demand. There could be four major causes like -
    1. New competitor in Market
