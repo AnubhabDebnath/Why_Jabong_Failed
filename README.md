@@ -58,19 +58,53 @@ Jabong also had the 4th highest revenue which was ₹150,00,00,000 per month at 
 
 # <img src="https://media.tenor.com/jiGDrimfDEgAAAAi/sports-sportsmanias.gif" width="48" height="48"> **What could have been done differently?**
 
-**If I were a key decision maker for Jabong, some actions I could have taken to potentially to save the business would  include -**
+If I were a key decision maker for Jabong, some actions I could have taken to potentially to save the business would  include -
 
- **Focusing on customer experience**
+ Focusing on customer experience
 
- **Innovation and Diversifying product line**
+ Innovation and Diversifying product line
 
- **Investing in Marketing and Branding**
+ Investing in Marketing and Branding
 
- **Building strong partnerships**
+ Building strong partnerships
 
- **Cost optimization**
+ Cost optimization
+ 
+ 
+Focusing on customer experience: ​
 
- **Developing a robust and efficient supply chain**
+Prioritizing customer satisfaction and experience could have helped Jabong to build and maintain a loyal customer base. This could have been achieved by investing in better logistics and delivery infrastructure, and by providing better customer service.​
+
+​
+
+Innovation and Diversifying product line: ​
+
+Diversifying product line, keep an eye on market trends and introducing new products and services that align with those trends could have helped Jabong to attract new customers and retain existing ones​
+
+​
+
+Investing in Marketing and Branding:​
+
+Investing in marketing and branding efforts to build a strong, positive reputation and increase brand awareness could have helped Jabong to stand out in a crowded marketplace.​
+​
+
+
+Building strong partnerships: ​
+
+Building strong partnerships with other companies, such as fashion brands, retailers, and technology companies, could have helped Jabong to gain access to new markets and customers, as well as to leverage the expertise and resources of those partners.​
+
+
+
+Cost optimization: ​
+
+Reviewing the entire business operation and identifying areas for cost optimization to sustain in the price war and remain competitive.​
+Developing a robust and efficient supply chain to ensure timely delivery of products and to minimize delays, lost or damaged items.​
+
+
+
+Overall:​
+
+taking a holistic approach to addressing the business challenges, focusing on customer experience, innovation and diversifying product line, investing in marketing and branding, building strong partnerships and cost optimization could have helped Jabong to maintain its market share and remain competitive in the Indian e-commerce market.​
  
  
  
