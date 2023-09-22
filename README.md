@@ -7,7 +7,10 @@ This depository contains the casestudy of why one of the biggest players in the 
 
 # <img src="https://media.tenor.com/O3SstB9FDl8AAAAd/groot-problems.gif" width="48" height="48"> **Problems Faced**
 
-The first and formost problem I faced was while researching for the project, I had to look for sources which are valid or sources which are trustable, since it had to done using the internet, I had be careful that the reasons listed are genuine and not made up by some article. I went through various trusted sources and gathered all the information needed for the analysis. Then I looked for different visualizations already available which would fit the project's needs.
+While working on the project, I encountered several challenges. The first and foremost problem I faced was finding valid and trustworthy sources on the internet. It was crucial to ensure that the reasons listed were genuine and not made up by some article. To address this, I went through various trusted sources and gathered all the information needed for the analysis.
+
+Another challenge was to find visualizations that would fit the project’s needs. I looked for different visualizations that were already available and selected those that best suited the project.
+
 
 # <img src="https://media.tenor.com/GTpcptu5S3YAAAAi/money-cash.gif" width="48" height="48"> **Revenue Model of Jabong**
 
