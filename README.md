@@ -9,7 +9,7 @@ This depository contains the casestudy of why one of the biggest players in the 
 
 
 
-# <img src="https://media.tenor.com/O3SstB9FDl8AAAAd/groot-problems.gif" width="48" height="48"> **Problems Aimed to Solve**
+# <img src="https://media.tenor.com/O3SstB9FDl8AAAAd/groot-problems.gif" width="48" height="48"> **Problems Aimed to be Solved**
 
 Our primary objective in this study was to gather comprehensive information about Jabong, a highly esteemed company in its heyday and a preferred destination for fashion enthusiasts. Despite the apparent simplicity of researching this topic, the task was far from straightforward. The credibility of online information varies widely, and for our analysis of Jabong’s failure, we required only the most reliable sources. Consequently, I meticulously reviewed numerous reputable websites to cross-verify the information. This process allowed me to identify any contradictions in the data and ensure that our analysis was based on accurate and trustworthy information.
 
